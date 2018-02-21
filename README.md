@@ -14,7 +14,7 @@ Luca Mezzalira | MobX State Tree + React: Pure Reactivity Served [[Slides]](http
 Alexandre & Sébastien Chopin | Start using Vuejs like jQuery [[.pdf]](https://github.com/alexchopin/conferences/raw/master/VueAmsterdam/use_vuejs_like_jquery.pdf)
 Manfred Steyer | Automating boring programming tasks with the Angular cli and Schematics [[Slides]](https://speakerdeck.com/manfredsteyer/automating-boring-tasks-with-the-angular-cli-and-schematics)  
 Kitze Ristovski | The exciting future of React
-Eduardo San Martin Morote | Vue, simple yet scalable  [[Slides]](http://slides.com/posva/vue-simple-yet-scalable#/) 
+Eduardo San Martin Morote | Vue, simple yet scalable  [[Slides]](http://slides.com/posva/vue-simple-yet-scalable#/)
 Gerard Sans | Why nobody told me about NGRX / Entity? [[Slides]](http://slides.com/gerardsans/frontendlove-ngrx-entity)  
 Prashant Palikhe | New Chrome Dev Tool Functions that will blow your mind
 Raisa Cuevas | Augmented Reality: Past, Present, Future
@@ -30,11 +30,11 @@ Evan You | State of Vue (Keynote)
 Roman Kuba | Scaling Vue in an existing stack [[Slides]](https://speakerdeck.com/codebryo/adding-vue-to-an-existing-stack-and-get-ready-to-scale#)  
 Guillaume Chau | Apollo, GraphQL and Vue: The Ultimate Stack [[Slides]](http://slides.com/akryum/vue-amsterdam-2018#/)  
 Alexandre Chopin | Speed up your Vuejs Development Time with Nuxt [[.pdf]](https://github.com/alexchopin/conferences/raw/master/VueAmsterdam/speed_up_your_vuejs_dev_with_nuxtjs.pdf)
-Eduardo San Martin Morote | State Animations getting them right [[http://slides.com/posva/state-animations#/]](Slides) [[Demos]](https://github.com/posva/state-animation-demos)  
-Plamen Zdravkov | Building reusable UI Components in Vue. (KendoUI) [[]]()
+Eduardo San Martin Morote | State Animations getting them right [[Slides]](http://slides.com/posva/state-animations#/) [[Demos]](https://github.com/posva/state-animation-demos)  
+Plamen Zdravkov | Building reusable UI Components in Vue. (KendoUI) 
 Edd Yerburgh | Unit Testing Vue Components: Why test, what to test and how to test Vue components [[Slides]](http://slides.com/eddyerburgh/testing-vue-components#/)  
 Sebastian Chopin | How to server-render an Application with Vue.js [[Demo]](https://github.com/Atinux/vue-ssr-amsterdam)  
-Gerard Sans | Moving from Angular (V5+) to Vue  [[]]()
+Gerard Sans | Moving from Angular (V5+) to Vue  
 Ives van Hoorne | Vue Development in CodeSandbox  [[Slides]](http://slides.com/ivesvanhoorne/vue-amsterdam#/)
 Jen Looper | Create an engaging native mobile App with Vue and NativeScript [[Slides]](http://slides.com/telerikdevrel/ns-vue#/)  
 Sarah Drasner | Serverless Functions and Vue.js
@@ -51,7 +51,7 @@ Sarah Drasner | Serverless Functions and Vue.js
 ### Other Vue Stuff
 [Vuetify](https://vuetifyjs.com/vuetify/quick-start) -  Material Component Framework for Vue.js 2 (mentioned by Evan)<br>
 [iView](https://www.iviewui.com/components/notice-en) - A high quality UI Toolkit based on Vue.js<br>
-[Prettier.io](https://prettier.io/) - An opinionated code formatter, you press save and code is formatted)<br>
+[Prettier.io](https://prettier.io/) - An opinionated code formatter, you press save and code is formatted (supports vue)<br>
 
 ### Augmented Reality
 [ARCore](https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/) - Augmented Reality SDK für Android<br>
