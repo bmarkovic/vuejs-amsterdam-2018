@@ -1,4 +1,4 @@
-# VueJS Amsterdam 2018
+# VueJS Amsterdam 
 [http://www.vuejs.amsterdam/](http://www.vuejs.amsterdam/)<br>
 [#VueJSAmsterdam](https://twitter.com/hashtag/VueJSAmsterdam?src=hash)
 
@@ -40,33 +40,33 @@ Jen Looper | Create an engaging native mobile App with Vue and NativeScript [[Sl
 Sarah Drasner | Serverless Functions and Vue.js
 
 ### Vue Ecosystem
-[vue-cli - CLI for rapid Vue.js development](https://github.com/vuejs/vue-cli)<br>
-[vuex - Centralized State Management for Vue.js](https://github.com/vuejs/vuex)<br>
-[vue-router - The official router for Vue.js](https://github.com/vuejs/vue-router)<br>
-[vue-devtools - Browser devtools extension for debugging Vue.js applications](https://github.com/vuejs/vue-devtools)<br>
-[vue-test-utils - Utilities for testing Vue components](https://github.com/vuejs/vue-test-utils)<br>
-[vetur](https://vuejs.github.io/vetur/) - Vue tooling for VS Code
-[Nuxt](https://nuxtjs.org/guide/) - a framework for server-rendered Vue Applications
+[vue-cli](https://github.com/vuejs/vue-cli) - CLI for rapid Vue.js development<br>
+[vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js<br>
+[vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js<br>
+[vue-devtools](https://github.com/vuejs/vue-devtools) - Browser devtools extension for debugging Vue.js applications<br>
+[vue-test-utils](https://github.com/vuejs/vue-test-utils) - Utilities for testing Vue components<br>
+[vetur](https://vuejs.github.io/vetur/) - Vue tooling for VS Code<br>
+[Nuxt](https://nuxtjs.org/guide/) - a framework for server-rendered Vue Applications<br>
 
 ### Other Vue Stuff
-[Vuetify](https://vuetifyjs.com/vuetify/quick-start) -  Material Component Framework for Vue.js 2 (mentioned by Evan)
-[iView](https://www.iviewui.com/components/notice-en)
-[Prettier.io](https://prettier.io/) - An opinionated code formatter, you press save and code is formatted)
+[Vuetify](https://vuetifyjs.com/vuetify/quick-start) -  Material Component Framework for Vue.js 2 (mentioned by Evan)<br>
+[iView](https://www.iviewui.com/components/notice-en)<br>
+[Prettier.io](https://prettier.io/) - An opinionated code formatter, you press save and code is formatted)<br>
 
-#### Augmented Reality
-[ARCore - Augmented Reality SDK für Android](https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/)<br>
-[ARKit - Augmented Realtiy SDK für iOS](https://developer.apple.com/arkit/)<br>
-[ARgon.js - Augmented Reality JavaScript](https://github.com/argonjs/argon)<br>
-[ar.js - Augmented Reality JavaScript (Marker Based)](https://github.com/jeromeetienne/AR.js)<br>
+### Augmented Reality
+[ARCore](https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/) - Augmented Reality SDK für Android<br>
+[ARKit](https://developer.apple.com/arkit/) - Augmented Realtiy SDK für iOS<br>
+[ARgon.js](https://github.com/argonjs/argon) - Augmented Reality JavaScript<br>
+[ar.js](https://github.com/jeromeetienne/AR.js) - Augmented Reality JavaScript (Marker Based)<br>
 
-#### Component Libraries
-[SourceJS - Living Style Guide Engine](https://github.com/sourcejs)<br>
-[SC5 - Style Guide Generator](http://styleguide.sc5.io/)<br>
-[React Styleguidist - Isolated React component development environment with a living style guide](https://github.com/styleguidist/react-styleguidist)<br>
+### Component Libraries
+[SourceJS](https://github.com/sourcejs) - Living Style Guide Engine<br>
+[SC5](http://styleguide.sc5.io/) - Style Guide Generator<br>
+[React Styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide<br>
 [KendoUI](https://www.telerik.com/kendo-ui) - A complete JavaScript UI component library<br>
-[Storybook - a development environment for your UI components. (React, Vue or Angular)](https://storybook.js.org/)  <br>
+[Storybook](https://storybook.js.org/) - a development environment for your UI components. (React, Vue or Angular)  <br>
 
-#### Animations 
+### Animations 
 [vue-tweezing](https://github.com/posva/vue-tweezing) - Easy, customizable and automatic tweening nicely served in scoped slots <br>
 [vue-tween](https://github.com/chay22/vue-tween) - Simple Javascript Tweening for Vuejs<br>
 [vue-motion](https://posva.net/vue-motion) - Easy and natural state transitions<br>
@@ -76,34 +76,34 @@ Sarah Drasner | Serverless Functions and Vue.js
 [Demos](https://state-animations-amsterdam.surge.sh/)<br>
 [Demos on Github](https://github.com/posva/state-animation-demos)<br>
 
-#### React
+### React
 [https://www.reactacademy.io/](https://www.reactacademy.io/)<br>
 [React Fiber](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43) - the core react algorithm of React has been completely rewritten - still experimental!<br>
 [Mobx - A State Tree  for React](https://github.com/mobxjs/mobx-state-tree)<br>
 CREATE-REACT-CLI<br>
 React ReactNative Redux RXJS<br>
 
-#### Progressive Web Apps
+### Progressive Web Apps
 [PWABuilder](http://www.pwabuilder.com/generator) - Generate your Progressive Web App<br>
 [Chrome Lighthouse](https://developers.google.com/web/tools/lighthouse/) - best practices for Progressive Web Apps [[Github]](https://github.com/GoogleChrome/lighthouse)<br>
 [HNPWA](https://hnpwa.com/) - examples of hackernews apps implemented as PWA<br>
 [https://www.pwa.rocks/](https://pwa.rocks/) - PWA Examples
 
-#### Unit Testing
+### Unit Testing
 [vue-loader](https://vue-loader.vuejs.org/en/) or [vue-jest](https://github.com/vuejs/vue-jest) - Compilers <br>
 [vue-test-utils](https://vue-test-utils.vuejs.org/en/) - the official unit testing utility library for Vue.js.<br>
-[Testing Single File Components with Jest](https://vue-test-utils.vuejs.org/en/guides/testing-SFCs-with-jest.html)<br>
+[Guide](https://vue-test-utils.vuejs.org/en/guides/testing-SFCs-with-jest.html) - Testing Single File Components with Jest<br>
 
 [Firebase UI Web](https://github.com/firebase/firebaseui-web) - js library that provides customizable UI bindings on top of Firebase SDKs 
 Firebase backend <br>
-[https://codesandbox.io/ - The online code editor](https://codesandbox.io/)<br>
+[https://codesandbox.io/](https://codesandbox.io/) - The online code editor<br>
 [POI](https://poi.js.org/#/)  - Config Free developement/ Bundle and publish your Vue component <br>
-[http://surge.sh - Static web publishing for Front-End Developers](http://surge.sh/) 
-[KendoUI](https://www.telerik.com/kendo-ui) - A complete JavaScript UI component library
-[Kendo-UI Themebuilder](http://themebuilder.telerik.com/kendo-ui) -  A online theme builder
-[Cypress.io](https://www.cypress.io/) - E2E Testing
-[vuevixens](https://vuevixens.org/) - Vue Vixens are foxy people who identify as women
-[NativeScript](https://www.nativescript.org/) - A framework for building native cross-platform mobile apps [[Github]](https://github.com/nativescript-vue/nativescript-vue)
+[http://surge.sh](http://surge.sh/) - Static web publishing for Front-End Developers<br>
+[KendoUI](https://www.telerik.com/kendo-ui) - A complete JavaScript UI component library<br>
+[Kendo-UI Themebuilder](http://themebuilder.telerik.com/kendo-ui) -  A online theme builder<br>
+[Cypress.io](https://www.cypress.io/) - E2E Testing<br>
+[vuevixens](https://vuevixens.org/) - Vue Vixens are foxy people who identify as women<br>
+[NativeScript](https://www.nativescript.org/) - A framework for building native cross-platform mobile apps [[Github]](https://github.com/nativescript-vue/nativescript-vue)<br>
 
 #### Contacts
 [https://posva.net/](https://posva.net/)<br>
