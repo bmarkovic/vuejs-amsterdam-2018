@@ -1,4 +1,4 @@
-# VueJS Amsterdam 2018 (15-16 Feb)
+# VueJS Amsterdam 2018
 [http://www.vuejs.amsterdam/](http://www.vuejs.amsterdam/)<br>
 [#VueJSAmsterdam](https://twitter.com/hashtag/VueJSAmsterdam?src=hash)
 
