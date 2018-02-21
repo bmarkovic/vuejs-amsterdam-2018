@@ -50,7 +50,7 @@ Sarah Drasner | Serverless Functions and Vue.js
 
 ### Other Vue Stuff
 [Vuetify](https://vuetifyjs.com/vuetify/quick-start) -  Material Component Framework for Vue.js 2 (mentioned by Evan)<br>
-[iView](https://www.iviewui.com/components/notice-en)<br>
+[iView](https://www.iviewui.com/components/notice-en) - A high quality UI Toolkit based on Vue.js<br>
 [Prettier.io](https://prettier.io/) - An opinionated code formatter, you press save and code is formatted)<br>
 
 ### Augmented Reality
@@ -79,9 +79,10 @@ Sarah Drasner | Serverless Functions and Vue.js
 ### React
 [https://www.reactacademy.io/](https://www.reactacademy.io/)<br>
 [React Fiber](https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43) - the core react algorithm of React has been completely rewritten - still experimental!<br>
-[Mobx - A State Tree  for React](https://github.com/mobxjs/mobx-state-tree)<br>
-CREATE-REACT-CLI<br>
-React ReactNative Redux RXJS<br>
+[Mobx](https://github.com/mobxjs/mobx-state-tree) - A State Tree  for React<br>
+[create-react-app](https://github.com/facebook/create-react-app) - Create React apps with no build configuration.<br>
+[ReactNative](https://facebook.github.io/react-native/) - Build native mobile apps using JavaScript and React<br>
+[RXJS](https://github.com/reactivex/rxjs) - A reactive programming library for JavaScript [http://reactivex.io/rxjs](http://reactivex.io/rxjs)<br>
 
 ### Progressive Web Apps
 [PWABuilder](http://www.pwabuilder.com/generator) - Generate your Progressive Web App<br>
@@ -105,7 +106,7 @@ Firebase backend <br>
 [vuevixens](https://vuevixens.org/) - Vue Vixens are foxy people who identify as women<br>
 [NativeScript](https://www.nativescript.org/) - A framework for building native cross-platform mobile apps [[Github]](https://github.com/nativescript-vue/nativescript-vue)<br>
 
-#### Contacts
+### Contacts
 [https://posva.net/](https://posva.net/)<br>
 [https://twitter.com/posva](https://twitter.com/posva)<br>
-[https://github.com/posva?tab=repositories)(https://github.com/posva?tab=repositories)<br>
+[POSVA Repositories](https://github.com/posva?tab=repositories)<br>
