@@ -10,7 +10,7 @@ Author | Title
 Sarah Drasner | Animating Vue [[Video 2017]](https://www.youtube.com/watch?v=Vp37fWKOlV4) [[Slides]](http://slides.com/sdrasner/animating-vue-f17) 
 Michel Weststrate | React, it's not a framework for the UI, but a framework for the mind. [[Slides]](http://thinkinginreact.surge.sh/#/)  
 Simona Cotin | Build progressive web apps with angular. [[Slides]](https://www.slideshare.net/SimonaCotin/build-progressive-web-apps-with-angular)  
-Luca Mezzalira | MobX State Tree + React: Pure Reactivity Served [[Slides]](https://docs.google.com/presentation/d/1f18RhN9hz1GPAdY4binWVNZDKm3k7EfNvV48lWnzdjQ/edit#slide=id.g35f391192_00)  
+Luca Mezzalira | MobX State Tree + React: Pure Reactivity Served [[Slides]](https://docs.google.com/presentation/d/1f18RhN9hz1GPAdY4binWVNZDKm3k7EfNvV48lWnzdjQ/edit#slide=id.g35f391192_00) [[Github]](https://github.com/mobxjs/mobx-state-tree) 
 Alexandre & Sébastien Chopin | Start using Vuejs like jQuery [[.pdf]](https://github.com/alexchopin/conferences/raw/master/VueAmsterdam/use_vuejs_like_jquery.pdf)
 Manfred Steyer | Automating boring programming tasks with the Angular cli and Schematics [[Slides]](https://speakerdeck.com/manfredsteyer/automating-boring-tasks-with-the-angular-cli-and-schematics)  
 Kitze Ristovski | The exciting future of React
